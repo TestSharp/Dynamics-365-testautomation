@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Dyn365Auto/v15
+/.vs
+/Dynamic365Automation/.vs/Dynamic365Automation/v15/Server/sqlite3
+/Dynamic365Automation/.vs/Dynamic365Automation/v15
+/Dynamic365Automation/bin/Debug/Reports
+/Dynamic365Automation/bin/Debug
+/Dynamic365Automation/obj/Debug
+/Dynamic365Automation/packages
